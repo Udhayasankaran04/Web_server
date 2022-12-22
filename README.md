@@ -54,7 +54,7 @@ httpd.serve_forever()
 ```
 
 # OUTPUT:
-![OUTPUT](./images/Screenshot_20221215_015022.png)
+![OUTPUT](./images/webserver.jpg)
 
 # RESULT:
 
