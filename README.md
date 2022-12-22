@@ -54,8 +54,8 @@ httpd.serve_forever()
 ```
 
 # OUTPUT:
-![OUTPUT](./images/webserver.jpg)
+![OUTPUT](./images/WELCOME.png)
 
 # RESULT:
 
-The program is executed succesfully
+The program is executed Succesfully
